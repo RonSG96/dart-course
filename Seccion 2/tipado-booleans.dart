@@ -4,5 +4,5 @@ void main() {
   bool isNotActive = !isActive;
 
   // print(isActive);
-  print(isNotActive!);
+  print(isNotActive);
 }
